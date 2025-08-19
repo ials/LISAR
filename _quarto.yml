@@ -1,0 +1,71 @@
+project:
+  type: "website"
+  title: "RADAR AND LIDAR REMOTE SENSING"
+  output-dir: _output
+  render:
+    - "index.qmd"
+    - "2025/*.qmd"
+    - "2025/weeks/week01/*.qmd"
+
+website:
+  title: "RADAR AND LIDAR"
+  page-navigation: true
+  reader-mode: true
+  open-graph: true
+  twitter-card: 
+    creator: "@<twitter-handle>"
+    site: "\\@<twitter-handle>"
+  favicon: "figures/icons/ARS-1.png"
+  search:
+    location: navbar
+    type: textbox
+  sidebar:
+    style: docked
+    contents:
+      - href: 2025/index.qmd
+        text: "🏠 Home"
+      - href: 2025/syllabus.qmd
+        text: "📓 Syllabus"
+      - section: "🗓️ Weeks"
+        contents:
+         - href: 2025/weeks/week01/page.qmd
+           text: Week 01
+           contents:
+             - href: 2025/weeks/week01/page.qmd
+               text: 👨‍🏫 Lecture Material
+         
+  navbar:
+    background: primary
+  page-footer:
+    background: light
+    left: "Copyright 2025, IALS" 
+
+
+
+bibliography: references/references.bib
+csl: references/chicago-author-date.csl
+
+
+format:
+  html:
+    author: [Ivan Lizarazo]
+    author-meta: Ivan Lizarazo
+    date-format: "DD MMMM YYYY"
+
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    link-external-icon: true
+    link-external-filter: ^(?:http:|https:)\/\/(?:ials\.github\.io\/|localhost)
+
+    theme:
+      light: 
+        - journal
+        - css/custom.scss # I use this just to change the default colour
+    css: 
+      - css/custom_style.css
+      - css/syllabus.css
+    toc: true
+
+#margin-header: 
+#![](/figures/icons/UNAL-1.png)
+

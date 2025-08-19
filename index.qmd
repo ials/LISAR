@@ -1,0 +1,33 @@
+---
+title: "2027948 - RADAR AND LIDAR REMOTE SENSING"
+format:
+  html:
+    include-before-body: helpers/remove-nav.html
+    include-after-body: helpers/remove-title.html
+---
+
+# 📑 Course Brief
+
+**Focus:** This course will focus on understanding the principles and applications of both Synthetic Aperture Radar (SAR) and LiDAR (Light Detection and Ranging).
+
+**How:** reading,  learning by doing and writing
+
+# 🎯 Learning Objectives
+
+
+- The course aims to equip participants with a comprehensive understanding of both SAR and LiDAR techniques. 
+
+- It will explore the unique capabilities and limitations of each technology. 
+
+- Participants will learn how to process and analyze data from both SAR and LiDAR systems. 
+
+- The course will emphasize  theory and application exercises of these technologies. 
+
+-----------------
+
+**Select Academic Year/Term:**
+
+<a href="2025/index.qmd">
+    <button class="button-61">2025</button>
+</a>
+
