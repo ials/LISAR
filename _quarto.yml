@@ -15,7 +15,7 @@ website:
   twitter-card: 
     creator: "@<twitter-handle>"
     site: "\\@<twitter-handle>"
-  favicon: "figures/icons/ARS-1.png"
+  favicon: "figures/icons/SAR.png"
   search:
     location: navbar
     type: textbox

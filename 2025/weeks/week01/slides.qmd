@@ -1,10 +1,10 @@
 ---
-subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+subtitle: " 2027948 -- RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
-author: Ivan Lizarazo(#)
-institute: '[Universidad Nacional de Colombia](#)'
-date: 9 August 2023
-date-meta: 9 August 2023
+author: Ivan Lizarazo
+institute: 'Universidad Nacional de Colombia'
+date: 28 August 2025
+date-meta: 28 August 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -18,9 +18,9 @@ format:
     slide-number: true
     mouse-wheel: false
     preview-links: auto
-    logo: /figures/icons/ARS-1.png
+    logo: /figures/icons/SAR.png
     css: /css/styles_slides.css
-    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+    footer: '2027948 -- RADAR AND LIDAR REMOTE SENSING'
 ---
 
 # Who are we
@@ -31,7 +31,7 @@ format:
 
 ::: {.column style="display:inline-block;width:40%;height:60%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5"}
 <figure>
-    <img src="/figures/people/ials.png" alt="Photo of Professor Ivan Lizarazo" role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/figures/people/ials.png" alt="Professor Ivan Lizarazo" role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
     <figcaption>
         <strong>Prof.&nbsp;<span><a href="#" target="_blank" class="external">Lizarazo</a></span></strong> 
         <br/>Investigador senior Minciencias
@@ -62,51 +62,24 @@ format:
 
 :::
 
-# NASA satellites
+# Earth orbiting satellites using radar 
 
-Earth Observing Fleet (January 2023)
+[BBC 24.05.2024](https://www.bbc.com/future/article/20240524-the-satellites-using-radar-to-peer-at-earth-in-minute-detail?ocid=fbfut)
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
-# What we know about remote sensing 
-
-Open your notebook and write down if you agree or not with each of the next statements
-
-## Statement 1
-Satellites measure the reflectance of features on the ground
-
-## Statement 2
-Land cover classification is a simple process of grouping  pixels based on spectral properties 
-
-## Statement 3
-Spectral resolution is the number of bands  available from a particular sensor 
-
-## Statement 4
-Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
-
-## Statement 5
-Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
-
-## Statement 6
-Square pixels in an image accurately represent a square area on the Earth's surface
-
-# What we know about Python
-
-## Basic python quiz 
-
-### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
 
 # Flipped classroom
 
 ## Reading, doing and writing
 
 A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
+
+
+# To do this afternoon 
+
+## Dive into the workings of the Sentinel Application Platform (SNAP)
+
+[ICEYE SNAP tutorial](https://www.iceye.com/sar-data/snap)
+
 
 # To do before next class 
 
