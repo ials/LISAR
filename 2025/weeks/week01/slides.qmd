@@ -64,7 +64,7 @@ format:
 
 # Earth orbiting satellites using radar 
 
-![Sentinel-1 Mission](https://youtu.be/FJWzLxdSMyA)
+[Sentinel-1 Mission](https://youtu.be/FJWzLxdSMyA)
 
 [BBC 24.05.2024](https://www.bbc.com/future/article/20240524-the-satellites-using-radar-to-peer-at-earth-in-minute-detail?ocid=fbfut)
 
