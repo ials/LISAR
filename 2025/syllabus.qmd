@@ -10,28 +10,28 @@ format: html
 ## DESCRIPCIÓN DE LA ASIGNATURA:
 ::: {.callout-important collapse=false}
 ### OBJETIVOS:
--	Entender el proceso de percepción remota de la superficie terrestre y su relación con la investigación
--	Conocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)
--	Entender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR
--	Aplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR
+-	Conocer los principios físicos asociados a  SAR y LiDAR 
+-	Entender las características principales de los datos SAR y LiDAR
+- Conocer los métodos de corrección radiométrica y geométrica de imágenes SAR
+-	Obtener información temática a partir de imágenes SAR y datos LiDAR
 
 ### COMPETENCIAS GENÉRICAS: 
--	Comprensión de los fundamentos teóricos de la percepción remota
--	Obtención de habilidades prácticas para seleccionar, procesar y analizar imágenes
--	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota
+-	Comprensión de los fundamentos teóricos de la percepción remota SAR y LiDAR
+-	Obtención de habilidades prácticas para seleccionar, procesar y analizar datos SAR y LiDAR
+-	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de estas tecnologías
 
 ### COMPETENCIAS ESPECÍFICAS:
-- Entendimiento del flujo de trabajo genérico  de percepción remota
-- Adaptación y creación de scripts para  procesamiento y análisis de imágenes
--	Evaluación de la calidad de productos de percepción remota
+- Entendimiento del flujo de trabajo genérico para el uso de datos SAR y LiDAR
+- Adaptación y creación de scripts para  procesamiento y análisis de datos SAR y LiDAR
+-	Evaluación de la calidad de productos de percepción remota SAR y LiDAR
 
 ### METODOLOGIA:
 -	Lectura antes de la clase a cargo del estudiante
--   Presentación de conceptos, métodos y técnicas a cargo del profesor
--	Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
+- Presentación de conceptos, métodos y técnicas a cargo del profesor
+-	Realización de ejercicios conceptuales y prácticos a cargo  del estudiante
 
 ### SOFTWARE
--  *PARTE 1:* Sentinel-1 Toolbox (S1TBX) 
+-  *PARTE 1:* GEE, Python, Sentinel-1 Toolbox (S1TBX) 
 -  *PARTE 2:* Python & Jupyter & Google Colaboratory
 :::
 
@@ -42,42 +42,39 @@ format: html
 
 ## PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
 
-### Semana 1 –   Repaso, Contexto & Conceptos claves
+### Tópico 1 -  Conceptos básicos de radar
 
-### Semana 2 -  Conceptos básicos de radar
+### Tópico 2 - Procesamiento básico de imágenes SAR - SNAP
 
-### Semana 3 - Procesamiento básico de imágenes SAR - SNAP
+### Tópico 3 – Propiedades radiativas de suelos y vegetación
 
-### Semana 4 – Propiedades radiativas de suelos y vegetación
+### Tópico 4 – Procesamiento básico de imágenes SAR 
 
-### Semana 5 – Procesamiento básico de imágenes SAR - GEE - JS
+### Tópico 5 –  Analysis Ready SAR Data
 
-### Semana 6 –  Procesamiento básico de imágenes SAR - GEE - Python
+### Tópico 6 - Interferometría SAR
 
-### Semana 7 – Analysis Ready SAR Data 
-
-### Semana 8 – Open Data Cube
 :::
 
 ::: {.callout-important collapse=true}
 
-## PARTE 2 – APRENDIZAJE PROFUNDO  (DEEP LEARNING)
+## PARTE 2 – LIGHT DETECTION AND RANGING (LIDAR)
 
-### Semana 9 – Fundamentos de Deep Learning (DL)
+### Tópico  7 – 3D Data Representation and Structuration
 
-### Semana 10  – Redes neuronales convolucionales
+### Tópico 8  – 3D Data Visualization
 
-### Semana 11 - Clasificación de imágenes 
+### Tópico 9 -  Point Cloud Data Engineering  
 
-### Semana 12 - Segmentación semántica I
+### Tópico 10 - 3D Data Analysis
 
-### Semana 13 - Deep Learning for remote sensing
+### Tópico 11 - 3D Shape Recognition
 
-### Semana 14 -  Segmentación semántica II
+### Tópico 12 - 3D Modeling
 
-### Semana 15 - Aplicaciones DL en vegetación
+### Tópico 13 - 3D Building Reconstruction
 
-### Semana 16 - Aplicaciones DL en recursos hídricos
+### Tópico 14 - 3D Machine Learning
 :::
 
 ## EVALUACIÓN DEL CURSO: 

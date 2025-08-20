@@ -17,15 +17,15 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
-🚧 Download the ESA Sentinel Application Platform (SNAP) 🚧
+🚧 Download  [ESA Sentinel Application Platform (SNAP)](https://step.esa.int/main/download/) 🚧
 
-🚧 Follow the Sentinel-1 [SAR basics tutorial](https://step.esa.int/docs/tutorials/S1TBX%20SAR%20Basics%20Tutorial.pdf) 🚧
+🚧 Follow the Sentinel-1 [SAR basics tutorial](https://drive.google.com/file/d/1fNTn9cwKorvMJgmv2FQtWOlmkqPesU6q/view) 🚧
 
-👨‍🏫  You can download the tutorial dataset from [here](https://donnees-data.asc-csa.gc.ca/users/OpenData_DonneesOuvertes/pub/RADARSAT-2Vancouver/)
+👨‍🏫  For the tutorial, a Fine Quad Polarization SLC Radarsat-2 sample dataset covering the Wesenberg area in Germany is used. You can download it from [here](https://earth.esa.int/eogateway/ftp/missions/sample-data/third-party-missions/radarsat/RS2_OK153952_PK1408399_DK1372518_FQ17_20150626_052324_HH_VV_HV_VH_SLC.zip).
 
 ## 📚 Recommended Reading
 
-- Check the end of slides for the list of references cited in the lecture.
+- Check the end of slides for the reference.
 
 ## 📟 Communication
 

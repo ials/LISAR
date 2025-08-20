@@ -76,9 +76,9 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do this afternoon 
 
-## Dive into the workings of the Sentinel Application Platform (SNAP)
+## Synthetic Aperture Radar (SAR) Basics
 
-[ICEYE SNAP tutorial](https://www.iceye.com/sar-data/snap)
+[GEE Tutorial](https://developers.google.com/earth-engine/tutorials/community/sar-basics)
 
 
 # To do before next class 
