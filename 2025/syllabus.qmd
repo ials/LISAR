@@ -32,7 +32,7 @@ format: html
 
 ### SOFTWARE
 -  *PARTE 1:* GEE, Python, Sentinel-1 Toolbox (S1TBX) 
--  *PARTE 2:* Python & Jupyter & Google Colaboratory
+-  *PARTE 2:* R, Python & Jupyter & Google Colaboratory
 :::
 
 
@@ -42,39 +42,50 @@ format: html
 
 ## PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
 
-### Tópico 1 -  Conceptos básicos de radar
+### Topic 1 - Principles of Radar Remote Sensing 
 
-### Tópico 2 - Procesamiento básico de imágenes SAR - SNAP
+### Topic 2 - Basic processing of SAR images - SNAP
 
-### Tópico 3 – Propiedades radiativas de suelos y vegetación
+### Topic 3 – Propiedades radiativas de suelos y vegetación
 
-### Tópico 4 – Procesamiento básico de imágenes SAR 
+### Topic 4 – Basic processing of SAR images - GEE 
 
-### Tópico 5 –  Analysis Ready SAR Data
+### Topic 5 –  Analysis Ready SAR Data
 
-### Tópico 6 - Interferometría SAR
+### Topic 6 - SAR interferometry
 
 :::
 
 ::: {.callout-important collapse=true}
 
-## PARTE 2 – LIGHT DETECTION AND RANGING (LIDAR)
+## PARTE 2 – LIGHT DETECTION AND RANGING (LiDAR)
 
-### Tópico  7 – 3D Data Representation and Structuration
+### Topic 7 – Introduction to LiDAR
 
-### Tópico 8  – 3D Data Visualization
+Lecture: Chapter 1 of Wang et al. (2024)
 
-### Tópico 9 -  Point Cloud Data Engineering  
+Practical: https://snowex-2022.hackweek.io/tutorials/lidar/1_introduction_to_lidar.html
 
-### Tópico 10 - 3D Data Analysis
+### Topic 8 – LiDAR Remote Sensing Principles
 
-### Tópico 11 - 3D Shape Recognition
+Lecture: Chapter 2 of Wang et al. (2024)
 
-### Tópico 12 - 3D Modeling
+Practical: [Functionality of the lasR package](https://r-lidar.github.io/lasR/articles/tutorial.html)
 
-### Tópico 13 - 3D Building Reconstruction
+### Topic 9  – LiDAR Data Acquisition 
 
-### Tópico 14 - 3D Machine Learning
+Lecture: Chapter 3 of Wang et al. (2024)
+
+Practical: https://www.opengeomatics.ca/LiDAR-acquisition-and-analysis.html
+
+### Topic 10 -   LiDAR Data Processing 
+
+Lecture: Chapter 4 of Wang et al. (2024)
+
+### Topic 11 - Applications
+
+Lecture: Chapter 5 of Wang et al. (2024)
+
 :::
 
 ## EVALUACIÓN DEL CURSO: 
@@ -85,7 +96,7 @@ format: html
     - Examen 1 - 25 de Septiembre
     - Examen 2 - 27 de Noviembre
 -	Entrega de dos informes técnicos  (50%)
-    - Informe 1 - 27 de Noviembre
+    - Informe 1 - 2 de Octubre
     - Informe 2 - 4 de Diciembre
 
 :::
@@ -114,6 +125,7 @@ Poux, F. 3D Data Science with Python, O'Reilly Media, 2025. 500 pp.
 
 Simms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. 
 
+Wang Ch. et al. Introduction to LiDAR Remote Sensing.  CRC Press, 2024. 259 pp.
 
 Yamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.
 
