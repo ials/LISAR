@@ -101,3 +101,5 @@ Frery, Wu and Gomez, 2022. *SAR Image Analysis— A Computational Statistics App
 In this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.
 
 Speaker: Tom Ager (ICEYE)
+
+## [Back to this week page](page.qmd)
