@@ -119,6 +119,10 @@ Sentinel-1 | Sentinel-2
 
 ![](figures/azi_res.png)
 
+## A Visual intro to SAR
+
+[Intro2radar](https://www.geos.ed.ac.uk/~ihw/hype/radar/intro2radar.html) by Iain Woodhouse
+
 ## Speckle
 
 ![](figures/speckle.png)
