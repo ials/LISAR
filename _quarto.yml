@@ -6,6 +6,7 @@ project:
     - "index.qmd"
     - "2025/*.qmd"
     - "2025/weeks/week01/*.qmd"
+    - "2025/weeks/week02/*.qmd"
 
 website:
   title: "RADAR AND LIDAR"
@@ -33,6 +34,12 @@ website:
            contents:
              - href: 2025/weeks/week01/page.qmd
                text: 👨‍🏫 Lecture Material
+         - href: 2025/weeks/week02/page.qmd
+           text: Week 02
+           contents:
+             - href: 2025/weeks/week02/page.qmd
+               text: 👨‍🏫 Lecture Material
+                
          
   navbar:
     background: primary
