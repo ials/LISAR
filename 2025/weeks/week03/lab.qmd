@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 03 - Practical exercise"
+title: "🗓️ Week 03 - Crop monitoring"
 ---
 
 In this  week, we will follow the ["Crop monitoring with Sentinel-1 data tutorial"](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing):
