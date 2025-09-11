@@ -1,5 +1,5 @@
 ---
-subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+subtitle: "RADAR AND LIDAR REMOTE SENSING"
 title: "<font style='font-size:1em;'>🗓️ Week 03<br/> SAR Basics</font>"
 author: Ivan Lizarazo(#)
 institute: '[Universidad Nacional de Colombia](#)'
