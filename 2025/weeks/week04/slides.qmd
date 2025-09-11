@@ -133,7 +133,7 @@ Microwave remote sensing is a difficult subject. However, it is fascinating (Woo
 <img src="figures/three_images.gif" width=75% height=75%>
 
 
-# To do before next week 
+# To do before next weekARS 
 
 ## Read this document
 
