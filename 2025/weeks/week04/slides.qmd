@@ -3,8 +3,8 @@ subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
 title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Physics</font>"
 author: Ivan Lizarazo(#)
 institute: '[Universidad Nacional de Colombia](#)'
-date: 30 August 2023
-date-meta: 30 August 2023
+date: 18 September 2025
+date-meta: 18 SEptember 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -20,7 +20,7 @@ format:
     preview-links: auto
     logo: /figures/icons/ARS-1.png
     css: /css/styles_slides.css
-    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+    footer: 'RADAR & LIDAR'
 ---
 
 # Introduction
@@ -133,7 +133,7 @@ Microwave remote sensing is a difficult subject. However, it is fascinating (Woo
 <img src="figures/three_images.gif" width=75% height=75%>
 
 
-# To do before next class 
+# To do before next week 
 
 ## Read this document
 
@@ -141,12 +141,3 @@ Microwave remote sensing is a difficult subject. However, it is fascinating (Woo
 
 Vollrath et al. (2022) 
 
-## Watch this video
-
-[ICEYE SAR Products](https://www.iceye.com/vos-talk3-video-page) 
-
-Tom Ager (2023)
-
-## Practical exercise
-
-Preparing Sentinel-1 ARD in GEE (Mullisa, 2021)

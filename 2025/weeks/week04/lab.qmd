@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 03 - Practical exercise"
+title: "🗓️ Week 04 - Practical exercise"
 ---
 
 In this  week, we will explore SAR data in GEE: 

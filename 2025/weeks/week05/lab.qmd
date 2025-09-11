@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 03 - Practical exercise"
+title: "🗓️ Week 5 - Practical exercise"
 ---
 
 ### Preparing Sentinel-1 Analysis Ready Data in GEE

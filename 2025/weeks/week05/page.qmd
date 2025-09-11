@@ -9,9 +9,9 @@ In this  week, we will  learn how to prepare  Sentinel-1 SAR Analysis Ready Data
 
 Click [here](slides.qmd) to view the slides.
 
-## First report 
+## Informe No. 1
 
-**Students defines the workflow for their first report (and apply it)**
+**Upload your report on time**
 
 ## Practical exercise
 
