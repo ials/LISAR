@@ -1,27 +1,26 @@
 ---
-title: "🗓️ Week 06 - Sentinel-1 change analysis"
+title: "🗓️ Week 07 - SAR Interferometry"
 ---
 
-In this  week, we will  learn what is phase coherence and how it can be used for change detection.
+In this  week, we will  review the first draft of your SAR poster.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1uNfpHOcIl8FWB5aNZQrj_T7Xm5Rk57Dc/view?usp=drive_link) to view the slides.
+Click [here](https://ethz.ch/content/dam/ethz/special-interest/usys/ibp/soil-terrestrial-env-physics-dam/education/sientific_comm/2015/3-creating_scientific_poster_ethz_2015.pdf) to view the slides.
 
 
-## First report 
+## First draft of your poster
 
-**Students continue experimenting and writing their report**
+**Students upload their first draft on time** at [this link](https://drive.google.com/drive/folders/1BIVDWJ3erFXB39ENFKYcsNybggJPCPlQ?usp=drive_link).
 
 ## Practical exercise
 
-The tutorial  material is [here](lab.qmd)
-
+Students keep working on their reproducibility experiment for their first report.
 
 ## 📚 Recommended Reading
 
-[Temporal Coherence Changes of Typical Urban Features Based on Sentinel-1A Data](https://sensors.myu-group.co.jp/sm_pdf/SM2431.pdf)
+[1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a)
 
 
 
