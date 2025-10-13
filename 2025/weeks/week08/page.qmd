@@ -1,24 +1,23 @@
 ---
-title: "🗓️ Week 08 - Getting to know Deep Learning"
+title: "🗓️ Week 08 - Surface soil moisture"
 ---
 
-In this  week, we will  start to get familiar  with  deep learning (DL) applied to computer vision.
+In this  week, we will know different techniques for estimation of soil moisture from SAR.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[DL fundamentals](https://drive.google.com/file/d/1YbxlaOzxZ4XIqJHT__8RkefALSxCCyo6/view?usp=sharing).
+[SAR Soil Moisture](https://eo4society.esa.int/wp-content/uploads/2023/07/2023_TAT10_SARSoilMoisture_WWagner_Theory.pdf).
 
 ##  Practical exercise
 
-Make sure you copy the following notebook to your drive and run it *before the next class*:
+Install and test the PYthon Sentinel-1 soil-Moisture Mapping -[PYSMM](https://gitlab.inf.unibz.it/Felix.Greifeneder/pysmm)- library. See the documentation [here](https://pysmm.readthedocs.io/en/latest/#).
 
-[PyTorch fundamentals](https://colab.research.google.com/drive/12w5WCdj4TCdNovRvQr8cNlZSAb3JBHXI?usp=sharing)
+Alternatively check the algorithm  used in [100-m-resolution surface soil moisture data during the thawing season on the Qinghai‒Tibet Plateau](https://www.nature.com/articles/s41597-025-04831-1)
 
+## 📚 Recommended Reading
 
-## 📚 Recommended Video
-
-[¿Qué "es" una Red neuronal? Parte 1](https://www.youtube.com/watch?v=aircAruvnKk&t=23s)
+[A Machine Learning-Based Approach for Surface Soil Moisture Estimations with Google Earth Engine](https://www.mdpi.com/2072-4292/13/11/2099)
 
 
 

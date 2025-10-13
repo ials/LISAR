@@ -4,7 +4,16 @@ subtitle: "Academic Year: 2025"
 format: html
 ---
 
-::: {.callout-important collapse=false}
+::: {.callout-important collapse=true}
+## 📢 Grades
+
+(11/10/2025)
+
+![🗓️ Examen No. 1](LISAR-Examen-1.png)
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
 (28/08/2025)
