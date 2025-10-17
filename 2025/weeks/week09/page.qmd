@@ -18,7 +18,9 @@ Reproduce the following R Notebook:
 
 ## 📚 Required Readings
 
-[https://coast.noaa.gov/elearning/lidar/intro/](https://atlas.co/blog/understanding-las-and-laz-file-formats/)
+[Understanding LAS and LAZ file formats](https://atlas.co/blog/understanding-las-and-laz-file-formats/)
+
+[LAS Format Definition](https://opals.geo.tuwien.ac.at/html/stable/ref_fmt_las.html)
 
 [Introduction to LiDAR](https://drive.google.com/file/d/16u6er8Sf6nDjGKiUYq6tSE4GDib1W99s/view?usp=drive_link)
 
