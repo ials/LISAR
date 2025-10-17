@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 10  -Introduction to LiDAR"
+title: "🗓️ Week 9  -Introduction to LiDAR"
 ---
 
 Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target. 
