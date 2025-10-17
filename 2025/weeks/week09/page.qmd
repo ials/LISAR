@@ -1,24 +1,26 @@
 ---
-title: "🗓️ Week 09 - Artificial Neural Networks"
+title: "🗓️ Week 10  -Introduction to LiDAR"
 ---
 
-In this  week, we will  learn how  neural networks work.
+Light detection and ranging (LiDAR) is a combination of laser technology and photoelectric detection technology. It uses a laser as a light source to transmit high-frequency laser pulses to the target and a photodetector as a device to receive the returned signal from the target. 
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[An Introduction to Neural Networks](slides.qmd).
+[An Introduction to LiDAR](https://cloud.sdsc.edu/v1/AUTH_opentopography/www/shortcourses/17Utah/17Utah_Crosby_introLidar.pdf).
 
 ##  Practical exercise
 
-Make sure you save the following notebook in your drive and run it *during this class*:
+Reproduce the following R Notebook:
 
-[Build Your First Neural Network with PyTorch](https://colab.research.google.com/drive/1L27vENpQ6QTrV9O4b8wI_PqlVMZem-Wz?usp=sharing)
+[Checking and pre-processing Airborne Laser Scanning data](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/ALS_data_preprocessing.html)
 
 
-## 📚 Recommended Video
+## 📚 Required Readings
 
-[¿Qué "es" una Red neuronal? Parte 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=12s)
+[https://coast.noaa.gov/elearning/lidar/intro/](https://atlas.co/blog/understanding-las-and-laz-file-formats/)
+
+[Introduction to LiDAR](https://drive.google.com/file/d/16u6er8Sf6nDjGKiUYq6tSE4GDib1W99s/view?usp=drive_link)
 
 
 
