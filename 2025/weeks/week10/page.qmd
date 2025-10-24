@@ -14,8 +14,7 @@ Under construction.
 
 The notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it  *during this week*:
 
-[Area-based approach 1: data preparation]
-(https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)
+[Area-based approach 1: data preparation](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)
 
 
 
