@@ -1,24 +1,27 @@
 ---
-title: "🗓️ Week 10 - Convolutional Neural Networks"
+title: "🗓️ Week 10 -LiDAR Remote Sensing Principles "
 ---
 
-In this  week, we will  learn how to build, train, and apply convolutional neural networks (CNNs).
+In this  week, we will  learn  the ranging principle of LiDAR systems, including pulsed LiDAR and phased LiDAR. Then, the LiDAR radiation principle will be introduced based on the LiDAR equation. The commonly used LiDAR waveform model and LiDAR radiative transfer model will be also presented. After that, we systematically know the principles of LiDAR systems with different platforms (spaceborne/airborne/terrestrial) and different methods of detection and digitization (full wave-
+form/discrete return/photon counting). Finally, the influence mechanisms of the sky environment (atmosphere and sunlight) on the LiDAR signal will be analyzed.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[Convolutional Neural Networks](slides.qmd).
+Under construction.
 
 ##  Practical exercise
 
-Make sure you save the following notebook in your drive and run it from there *during this class*:
+The notebook below presents a workflow to prepare tree-level inventory data for the calibration of area-based models with ALS data and field measurements. Make sure you reproduce it  *during this week*:
 
-[Build a Convolutional Neural Network with PyTorch](https://colab.research.google.com/drive/1jwnnlRaIgjGURin8_ic4RXcpnJ0VUvG7?usp=sharing)
+[Area-based approach 1: data preparation]
+(https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)
 
 
-## 📚 Recommended Video
 
-[Training with PyTorch](https://www.youtube.com/watch?v=jF43_wj_DCQ)
+## 📚 Required Reading
+
+[LiDAR Remote Sensing Principles](https://drive.google.com/file/d/1fYRZXUimRTJAiCu8JSsuQHpKBtiUazyX/view?usp=sharing)
 
 
 
