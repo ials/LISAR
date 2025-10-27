@@ -8,7 +8,7 @@ form/discrete return/photon counting). Finally, the influence mechanisms of the 
 
 ## 👨‍🏫 Lecture Slides 
 
-Under construction.
+[Physical principles of LiDAR](https://drive.google.com/file/d/19xY68kF2MGm4yWnlpPklhliOY8MxfsGi/view?usp=sharing)
 
 ##  Practical exercise
 
