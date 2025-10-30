@@ -16,6 +16,7 @@ The notebook below presents a workflow to prepare tree-level inventory data for 
 
 [Area-based approach 1: data preparation](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/area-based.1.data.preparation.html)
 
+The resulting html should look similar to [this one](https://drive.google.com/file/d/1EUOg7qnerqFtlHraNO7ozRPY0QtqZRYt/view?usp=sharing).
 
 
 ## 📚 Required Reading
