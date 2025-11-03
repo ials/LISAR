@@ -1,41 +1,30 @@
 ---
-title: "🗓️ Week 11 - Deep Learning for Remote Sensing"
+title: "🗓️ Week 11 -Forest metrics from LiDAR "
 ---
 
-In this  week, we will understand how to use CNNs for semantic segmentation of remotely sensed images.
+In this  week, we will learn how to extract metrics used in forestry from laser scanning/LiDAR data.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[DeepNets for Earth Observation data](slides.qmd).
+[LiDAR Applications in Forestry](http://lees.geo.msu.edu/resources/files/teaching_lees_lidar.pdf).
 
 ##  Practical exercise
 
-Make sure you save the following notebook in your drive and run it from there *during this class*:
+Select the track most convenient for you:
 
-[Semantic segmentation of aerial images with deep network](https://colab.research.google.com/drive/1cTYz3ZLpMrtQxXOtVDc-3lhn63SN4TrO?usp=sharing)
+### R Track
 
-##  Informe No. 2
+[Forest structure metrics extraction](https://lidar.pages-forge.inrae.fr/lidaRtRee/articles/forest.structure.metrics.html)
 
-::: {.callout-important collapse="true"}
-### Task
-Select one of these choices:
+### Python Track
 
-- 1 - Adapt this week notebook to conduct semantic segmentation on your own imagery;
-
-- 2 - Improve the semantic segmentation notebook using other architecture (e.g UNet, DeepLab);
-
-- 3 - Use other DL toolbox to conduct semantic segmentation on your own imagery.
-:::
+[Getting started with pyForMetrix](https://pyformetrix.readthedocs.io/en/latest/readme.html)
 
 
+## 📚 Required reading
 
-### Due date: 22th November at 11:59 pm
-
-## 📚 Recommended Lecture
-
-[Beyond RGB: Very High Resolution Urban Remote
-Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?usp=sharing)
+[Comparing ALS and Image-Based Point Cloud Metrics and Modelled Forest Inventory Attributes in a Complex Coastal Forest Environment](https://www.mdpi.com/1999-4907/6/10/3704).
 
 
 
