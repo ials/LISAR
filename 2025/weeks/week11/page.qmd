@@ -19,7 +19,7 @@ Select the track most convenient for you:
 
 ### Python Track
 
-[Getting started with pyForMetrix](https://pyformetrix.readthedocs.io/en/latest/readme.html)
+[Getting started with pyForMetrix](https://pyformetrix.readthedocs.io/en/latest/readme.html).  Your notebook should look similar to [this one](https://drive.google.com/file/d/1-2tpZ3cffyiNobxkCmoH7N1XnvaTZqIk/view?usp=sharing).
 
 
 ## 📚 Required reading
