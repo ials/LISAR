@@ -7,6 +7,10 @@ format: html
 ::: {.callout-important collapse=true}
 ## 📢 Grades
 
+(31/10/2025)
+
+![](LISAR-Informe-1.png)
+
 (11/10/2025)
 
 ![🗓️ Examen No. 1](LISAR-Examen-1.png)
