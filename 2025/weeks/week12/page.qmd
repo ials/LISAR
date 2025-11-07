@@ -1,22 +1,24 @@
 ---
-title: "🗓️ Week 12 - SegNet for land cover classification"
+title: "🗓️ Week 12 -Change analysis using LiDAR "
 ---
 
-In this  week, results from a SegNet-based land cover classification will be presented.
+In this  week, we will get familiar with multitemporal change analysis using LiDAR.
 
 
-## 👨‍🏫 Lecture Slides 
+## 👨‍🏫 Lecture 
 
-[SegNet-based land cover classification in a Paramo](slides.qmd).
+[Landslide Monitoring Using UAS and Multiscale Model-to-Model Cloud
+Comparison](https://drive.google.com/file/d/1i_HFcPrEnFgoAZzF1NhE-fMXfAWqnEdJ/view?usp=drive_link)
 
-##  Practical exercise
+[Multitemporal and multi-sensor observation ](https://3dgeo-heidelberg.github.io/etrainee/data_usecases/usecase_rockglacier_ahk.html).
 
-You should start *during this class* to work on your Informe No.2 as indicated in the last week.
+## 👨 Practical exercise
 
-##  Informe No. 2
-### Due date: 22th November at 11:59 pm
+Reproduce [this notebook](https://github.com/3dgeo-heidelberg/py4dgeo/blob/main/demo/m3c2-change_analysis.ipynb) to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.
 
+## 🏠 Reading
 
+[Multi-temporal 3D point cloud-based quantification and analysis of geomorphological activity at an alpine rock glacier using airborne and terrestrial LiDAR](https://drive.google.com/file/d/1_e5JcokQwoa14aklrg-NFh0cCQ4PHb4a/view?usp=sharing)
 
 
 
