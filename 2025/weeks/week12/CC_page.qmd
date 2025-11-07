@@ -1,0 +1,25 @@
+---
+title: "🗓️ Week 12 -Change analysis using LiDAR (1) "
+---
+
+In this  week, we will get familiar with  change analysis techniques using LiDAR.
+
+## 👨‍🏫 Lecture 
+
+(Change detection on 3D Point Clouds)(https://drive.google.com/file/d/1mpwSjvablinO2Bjj1HtpyjOPAUEURN6t/view?usp=sharing)
+
+## 👨 Practical exercise
+
+Make sure you install the latest stable release of [*Cloud Compare*](https://www.cloudcompare.org/) on your laptop. Bring it to the classroom.
+
+Practical on change analysis using *CloudCompare*. Follow instructions [from this video](https://video.univ-rennes1.fr/videos/clouds-2022-comparing-clouds/)
+
+Download two LiDAR data sets for analyzing changes in Kaikōura (New Zealand) [from here](https://opentopography.org/news/post-2016-kaik%C5%8Dura-earthquake-lidar)
+
+
+## 🏠 Reading
+
+[Multi-temporal 3D point cloud-based quantification and analysis of geomorphological activity at an alpine rock glacier using airborne and terrestrial LiDAR](https://drive.google.com/file/d/1_e5JcokQwoa14aklrg-NFh0cCQ4PHb4a/view?usp=sharing)
+
+
+

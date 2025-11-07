@@ -1,28 +1,22 @@
 ---
-title: "🗓️ Week 12 -Change analysis using LiDAR "
+title: "🗓️ Week 12 -Change analysis using LiDAR (1) "
 ---
 
-In this  week, we will get familiar with multitemporal change analysis using LiDAR.
+In this  week, we will get familiar with  change analysis techniques using LiDAR.
 
 ## 👨‍🏫 Lecture 
 
 (Change detection on 3D Point Clouds)(https://drive.google.com/file/d/1mpwSjvablinO2Bjj1HtpyjOPAUEURN6t/view?usp=sharing)
 
-[Landslide Monitoring Using UAS and Multiscale Model-to-Model Cloud
-Comparison](https://drive.google.com/file/d/1i_HFcPrEnFgoAZzF1NhE-fMXfAWqnEdJ/view?usp=drive_link)
+## 👨 Practical exercises
 
-[Multitemporal and multi-sensor observation ](https://3dgeo-heidelberg.github.io/etrainee/data_usecases/usecase_rockglacier_ahk.html).
+Go to [this repository](https://github.com/UP-RS-ESP/PointCloudWorkshop-May2022) and reproduce its practical exercises on point clouds and change detection.  It would be better if, previous to the class, you follow the installation instructions included there.
 
-## 👨 Practical exercise
-
-
-Read [Use case: Multitemporal and multi-sensor observation of the active rock glacier Äußeres Hochebenkar (Austria)](https://3dgeo-heidelberg.github.io/etrainee/data_usecases/usecase_rockglacier_ahk.html).
-
-Then, reproduce [this notebook](https://github.com/3dgeo-heidelberg/py4dgeo/blob/main/demo/m3c2-change_analysis.ipynb) to perform a surface change analysis on TLS point clouds of a rock glacier for two consecutive years.
 
 ## 🏠 Reading
 
-[Multi-temporal 3D point cloud-based quantification and analysis of geomorphological activity at an alpine rock glacier using airborne and terrestrial LiDAR](https://drive.google.com/file/d/1_e5JcokQwoa14aklrg-NFh0cCQ4PHb4a/view?usp=sharing)
+Make sure you read the following paper before next class:
+[Accurate 3D comparison of complex topography with terrestrial laser scanner](https://nicolas.brodu.net/common/recherche/publications/M3C2.pdf)
 
 
 
