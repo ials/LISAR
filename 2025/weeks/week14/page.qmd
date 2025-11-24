@@ -1,20 +1,23 @@
 ---
-title: "🗓️ Week 14 -  Semantic segmentation review"
+title: "🗓️ Week 14 -  GEDI LiDAR"
 ---
 
-In this  week, we will review what is the state-of-art on semantic segmentation.
+In this  week, we will get to know *Global Ecosystem Dynamics Investigation*.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-[Semantic segmentation review](slides.qmd).
+[GEDI LiDAR](https://www.kiss.caltech.edu/workshops/ecosystem/Presentations/Dubayah%20KISS%20GEDI%20Short%20Course2.pdf).
 
 ##  Practical exercise
 
-Students continue working on their semantic segmentation experiments for  *Informe No.2*.
+[Access GEDI L4B Dataset with OGC Web Services](https://ornldaac.github.io/gedi_tutorials/notebooks/gedi_l4b_ogc.html)
 
-##  Informe No. 2
-### Due date: 22th November at 11:59 pm
+## Homework
+
+Students continue working on their  *Informe No.2*.
+
+** Upload your inform not later than 4th December at 11:59 pm **
 
 
 
