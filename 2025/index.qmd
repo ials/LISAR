@@ -7,6 +7,10 @@ format: html
 ::: {.callout-important collapse=true}
 ## 📢 Grades
 
+(09/12/2025)
+
+![](LISAR-ReporteFinal.png)
+
 (31/10/2025)
 
 ![](LISAR-Informe-1.png)
